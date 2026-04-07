@@ -50,4 +50,4 @@ elif viento >= 70:
 else:
     print(f"{VERDE}Viento: Nivel Verde (Sin riesgo).")
 
-# Errores de entrada
+# Errores de entrada - Validacion de datos
